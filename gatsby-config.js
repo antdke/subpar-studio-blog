@@ -11,9 +11,9 @@ module.exports = {
     siteTitleAlt: `Subpar Studio`,
     siteHeadline: `Subpar Studio`,
     siteUrl: `https://subpar.studio`,
-    siteDescription: `A studio shipping simple, subpar products.`,
+    siteDescription: `A studio shipping simple products.`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
+    siteImage: ``,
     author: `@antdke`,
   },
   plugins: [
